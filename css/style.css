@@ -1,0 +1,152 @@
+body {
+    background-color: #ffffff;
+    font-family: "Mali", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.5em;
+    color: #464646;
+}
+
+#main-container {
+    margin: 15px auto;
+    max-width: 600px;    
+}
+
+a:link {
+    color: #EB798C;
+    font-size: 1.0em;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #EB798C;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul li {
+    margin: 0;
+    padding: 0;
+}
+
+ul.articles li {
+    margin: 0;
+    padding: 0 0 0.5em 0;
+    font-size: 0.8em;
+}
+
+.line {
+    background-color: #F3F3F3;
+    height: 1px;
+    width: 100%;
+}
+
+footer {
+    font-size: 0.8em;
+    margin: 0.5em 0 0 0;
+}
+
+footer p {
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+
+#top-header {
+    margin-bottom: 10px;
+    padding-bottom: 40px;
+}
+
+#top-header ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0.5em 0px 0px 0px;
+    display: inline-block;
+    position: absolute;
+}
+
+#top-header ul li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+#top-header a:visited {
+    color: #EB798C;
+}
+
+/*
+/blog/entry
+*/
+.blog-entry, .blog-archive-entry {
+    font-size: 1em;
+}
+
+.blog-entry .title, .blog-archive-entry .title {
+    font-size: 1.0em;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+.blog-entry .date {
+    font-size: 0.65em;
+    display: inline-block;
+    color: #888888;
+}
+
+/*
+/blog/article
+*/
+article ul {
+    list-style-type: disc;
+    margin: 0 0 1em 1em;
+}
+
+article ul li {
+    margin: 0 0 0.5em 0;
+}
+
+article h2, article h3, article h4 {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 2em 0 0.5em 0;
+}
+
+article h2:before, article h3:before, article h4:before {
+    content: "_";
+}
+
+article h2:after, article h3:after, article h4:after {
+    content: "_";
+}
+
+article pre {
+    font-size: 0.65em;
+    line-height: 1.3em;
+    background: #FFFFFF;
+    padding: 0 0 0 1em;
+
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+
+article img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+article footer {
+    font-size: 1em;
+}
