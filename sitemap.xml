@@ -34,4 +34,10 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>/tags/zdrowie/</loc>
+    <lastmod>2018-10-04T10:14:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
 </urlset>

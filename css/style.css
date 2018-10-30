@@ -160,6 +160,10 @@ article img {
     margin: 0 auto;
 }
 
+article .tags {
+    font-size: 0.8em;
+}
+
 article footer {
     font-size: 1em;
 }
