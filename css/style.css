@@ -117,6 +117,10 @@ footer p {
 /*
 /blog/article
 */
+article {
+    padding: 0 0 0.5em 0;
+}
+
 article ul {
     list-style-type: disc;
     margin: 0 0 1em 1em;
@@ -160,8 +164,13 @@ article img {
     margin: 0 auto;
 }
 
-article .tags {
+article .tags, article .author {
     font-size: 0.8em;
+    margin: 0 0 0 0;
+}
+
+article .tags {
+    color: #B8B8B8;
 }
 
 article footer {
