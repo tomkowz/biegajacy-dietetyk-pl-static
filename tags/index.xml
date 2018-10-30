@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Diety Indywidualne - Biegający Dietetyk - Klaudia Czajczyńska</title>
-    <link>/tags/</link>
+    <link>http://biegajacydietetyk.pl/tags/</link>
     <description>Recent content in Tags on Diety Indywidualne - Biegający Dietetyk - Klaudia Czajczyńska</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <lastBuildDate>Thu, 04 Oct 2018 10:14:21 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://biegajacydietetyk.pl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dieta</title>
-      <link>/tags/dieta/</link>
+      <link>http://biegajacydietetyk.pl/tags/dieta/</link>
       <pubDate>Thu, 04 Oct 2018 10:14:21 +0000</pubDate>
       
-      <guid>/tags/dieta/</guid>
+      <guid>http://biegajacydietetyk.pl/tags/dieta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zdrowie</title>
-      <link>/tags/zdrowie/</link>
+      <link>http://biegajacydietetyk.pl/tags/zdrowie/</link>
       <pubDate>Thu, 04 Oct 2018 10:14:21 +0000</pubDate>
       
-      <guid>/tags/zdrowie/</guid>
+      <guid>http://biegajacydietetyk.pl/tags/zdrowie/</guid>
       <description></description>
     </item>
     
